@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<passageiros>
+    <passageiro>
+        <nome>João</nome>
+        <ticket>12345</ticket>
+        <idade>29</idade>
+        <origem>Recife</origem>
+        <destino>Campina Grande</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Anderson</nome>
+        <ticket>12345</ticket>
+        <idade>25</idade>
+        <origem>Recife</origem>
+        <destino>São Paulo</destino>
+    </passageiro>
+    <passageiro>
+        <nome>José</nome>
+        <ticket>12344</ticket>
+        <idade>27</idade>
+        <origem>Campina Grande</origem>
+        <destino>São Paulo</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Felipe</nome>
+        <ticket>12354</ticket>
+        <idade>30</idade>
+        <origem>São Paulo</origem>
+        <destino>Campina Grande</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Maria</nome>
+        <ticket>12351</ticket>
+        <idade>35</idade>
+        <origem>São Paulo</origem>
+        <destino>Campina Grande</destino>
+    </passageiro>
+</passageiros>
